@@ -3,7 +3,22 @@
   <component name="issues">
     <option name="index">
       <map>
+        <entry key="$PROJECT_DIR$/src/main/java/com/sbt/javaschool/concurrentexamples/CountDownLatchExample.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/sbt/javaschool/concurrentexamples/FutureTaskExample.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/main/java/com/sbt/javaschool/concurrentexamples/MyCallable.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/sbt/javaschool/concurrentexamples/ReentrantLockExample.java">
           <value>
             <set />
           </value>
